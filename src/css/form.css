@@ -1,0 +1,25 @@
+.feedback-form {
+    max-width: 400px;
+    margin: 20px auto;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.feedback-form label {
+    display: flex;
+    flex-direction: column;
+    font-weight: bold;
+}
+
+.feedback-form input,
+.feedback-form textarea {
+    font-size: 16px;
+    padding: 8px;
+}
+
+.feedback-form button {
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
