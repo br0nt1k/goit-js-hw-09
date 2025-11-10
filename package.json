@@ -14,7 +14,7 @@
     "postcss-sort-media-queries": "^5.2.0",
     "vite": "^5.4.6"
   },
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "Oleh Oprysk  <olehoprysk2006@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "simplelightbox": "^2.14.3",
